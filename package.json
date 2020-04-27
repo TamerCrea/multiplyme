@@ -1,0 +1,26 @@
+{
+  "name": "multiplyme",
+  "version": "1.0.0",
+  "description": "",
+  "main": "public_html/index.html.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.26.7",
+    "gulp": "^4.0.2",
+    "gulp-browserify": "^0.5.1",
+    "gulp-cli": "^2.2.0",
+    "gulp-rename": "^2.0.0"
+  },
+  "dependencies": {
+    "jquery": "^3.5.0",
+    "modernizr": "^3.10.0"
+  }
+}
